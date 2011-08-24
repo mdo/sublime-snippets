@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+-webkit-column-count: ${1:3};
+   -moz-column-count: ${1:3};
+        column-count: ${1:3};
+-webkit-column-gap: ${2:20px};
+   -moz-column-gap: ${2:20px};
+        column-gap: ${2:20px};
+]]></content>
+  <tabTrigger>columns</tabTrigger>
+  <scope>source.css</scope>
+</snippet>

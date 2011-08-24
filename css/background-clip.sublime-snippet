@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+-webkit-background-clip: ${1:padding-box};
+   -moz-background-clip: ${1:padding-box};
+        background-clip: ${1:padding-box};
+]]></content>
+  <tabTrigger>background-clip</tabTrigger>
+  <scope>source.css</scope>
+</snippet>
