@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+background-color: ${2:#dddddd};
+background-repeat: repeat-x;
+background-image: -khtml-gradient(linear, left top, right top, from(${1:#eeeeee}), to(${2})); // Konqueror
+background-image: -moz-linear-gradient(left, ${1}, ${2}); // FF 3.6+
+background-image: -ms-linear-gradient(left, ${1}, ${2}); // IE10
+background-image: -webkit-gradient(linear, left top, right top, color-stop(0%, ${1}), color-stop(100%, ${2})); // Safari 4+, Chrome 2+
+background-image: -webkit-linear-gradient(left, ${1}, ${2}); // Safari 5.1+, Chrome 10+
+background-image: -o-linear-gradient(left, ${1}, ${2}); // Opera 11.10
+background-image: linear-gradient(left, ${1}, ${2}); // Le standard
+    ]]>
+  </content>
+  <tabTrigger>gradient</tabTrigger>
+  <scope>source.css</scope>
+  <description>Horizontal gradient</description>
+</snippet>
