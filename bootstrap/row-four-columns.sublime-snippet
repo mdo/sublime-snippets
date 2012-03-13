@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[<div class="row">
+  <div class="span3">
+    $1
+  </div><!--/span-->
+  <div class="span3">
+    $2
+  </div><!--/span-->
+  <div class="span3">
+    $3
+  </div><!--/span-->
+  <div class="span3">
+    $4
+  </div><!--/span-->
+</div><!--/row-->]]></content>
+  <tabTrigger>bs</tabTrigger>
+</snippet>

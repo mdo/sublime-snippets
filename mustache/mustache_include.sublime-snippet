@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<mustache src="$1" />]]></content>
+  <tabTrigger>mustache</tabTrigger>
+</snippet>
