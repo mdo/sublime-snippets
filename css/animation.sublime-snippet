@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+@-webkit-keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+@-moz-keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+.selector {
+  /* Animation name, duration, delay, iterations, easing */
+  -webkit-animation: fade 1s 0 0 ease-out;
+  -moz-animation: fade 1s 0 0 ease-out;
+}]]>
+  </content>
+  <tabTrigger>animation</tabTrigger>
+  <scope>source.css</scope>
+  <description>Keyframe animation</description>
+</snippet>
