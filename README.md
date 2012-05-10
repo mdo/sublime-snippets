@@ -11,11 +11,11 @@ Installing
 
 Navigate to your Sublime Text 2 user packages directory:
 
-  cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 
 And clone the repo to a new directory right then and there:
 
-  git clone git@github.com:markdotto/sublime-snippets.git
+    git clone git@github.com:markdotto/sublime-snippets.git
 
 
 ###Manually
