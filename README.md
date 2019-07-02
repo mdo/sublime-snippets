@@ -7,7 +7,7 @@ Sublime Text 2 is awesome. We think it can be made mo' awesome by adding some cu
 Installing
 ----------
 
-###With Git
+### With Git
 
 Navigate to your Sublime Text 2 user packages directory:
 
@@ -18,7 +18,7 @@ And clone the repo to a new directory right then and there:
     git clone git@github.com:mdo/sublime-snippets.git
 
 
-###Manually
+### Manually
 
 * Download the .zip file from the GitHub downloads modal
 * Unzip the files and rename the folder to "sublime-snippets"
